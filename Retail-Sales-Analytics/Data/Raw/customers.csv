@@ -1,0 +1,4 @@
+customer_id,customer_name,gender,age,city,state,country
+CUST001,Rahul Sharma,Male,28,Delhi,Delhi,India
+CUST002,Neha Verma,Female,34,Mumbai,Maharashtra,India
+CUST003,Aman Gupta,Male,41,Bengaluru,Karnataka,India

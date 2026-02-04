@@ -1,0 +1,3 @@
+order_id,order_date,customer_id,product_id,store_id,promo_id,quantity,sales_amount,cost_amount
+ORD001,05-01-2024,CUST001,P001,S001,PR001,1,74999,62000
+ORD002,06-01-2024,CUST002,P003,S002,PR002,2,18000,14000
